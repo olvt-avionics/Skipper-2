@@ -1,0 +1,9 @@
+﻿"S2_S_Airframe_ID"= 3
+"S2_S_Airframe_Thickness"= 0.11811
+"S2_B_Airframe_ID"= 3.5
+"S2_B_Airframe_Thickness"= 0.11811
+"S2_B_Airframe_Aft_Length"= 30
+"S2_B_Airframe_Forward_Length"= 3
+"S2_C_Coupler_Length"= 6
+"S2_S_Airframe_Aft_Length"= 32
+"S2_S_Airframe_Forward_Length"= 16
